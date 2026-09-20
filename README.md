@@ -4,7 +4,7 @@ A lightweight, terminal-based music player built with Node.js. Navigate your mus
 
 ![Node.js](https://img.shields.io/badge/Node.js-v18+-green)
 ![Platform](https://img.shields.io/badge/Platform-macOS-blue)
-![License](https://img.shields.io/badge/License-ISC-yellow)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Features
 
